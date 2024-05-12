@@ -1,0 +1,3 @@
+5¦Maths Quiz¦History Quiz¦Football¦Tennis¦Javelin
+### Please put the correct amount of events as the starting number! EG:###
+### 3¦xample Event¦Another Example Event¦You get the gist ###

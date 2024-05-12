@@ -1,0 +1,46 @@
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe.config
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.pdb
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.xml
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.Resources.resources
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.GenerateResource.cache
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.CoreCompileInputs.cache
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.exe
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.xml
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.pdb
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.containerFRM.resources
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.homepageFRM.resources
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.welcomeFRM.resources
+D:\downloads\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe.config
+D:\downloads\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe
+D:\downloads\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.pdb
+D:\downloads\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.xml
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.AssemblyReference.cache
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.containerFRM.resources
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.homepageFRM.resources
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.Resources.resources
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.welcomeFRM.resources
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.GenerateResource.cache
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.CoreCompileInputs.cache
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.exe
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.xml
+D:\downloads\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.pdb
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe.config
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.exe
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.pdb
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\bin\Debug\scoresTrackerApp.xml
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.AssemblyReference.cache
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.containerFRM.resources
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.homepageFRM.resources
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.Resources.resources
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.welcomeFRM.resources
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.GenerateResource.cache
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.CoreCompileInputs.cache
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.exe
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.xml
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.pdb
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.individualsDataFRM.resources
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.teamDataFRM.resources
+H:\VB Apps\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.vbproj.AssemblyReference.cache
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.individualsDataFRM.resources
+C:\Users\tiger\source\repos\scoresTrackerApp\scoresTrackerApp\obj\Debug\scoresTrackerApp.teamDataFRM.resources
