@@ -1,9 +1,0 @@
-﻿Public Class containerFRM
-    Private Sub containerFRM_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-        homepageFRM.MdiParent = Me
-        welcomeFRM.MdiParent = Me
-        welcomeFRM.Show()
-
-    End Sub
-End Class
