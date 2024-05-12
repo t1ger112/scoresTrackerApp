@@ -1,2 +1,2 @@
 # scoresTrackerApp
-Priestley Scores Tracker App for college coursework programming unit (IN PROGRESS)
+Priestley Scores Tracker App for college coursework programming unit.
